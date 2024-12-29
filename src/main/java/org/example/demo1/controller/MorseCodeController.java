@@ -16,7 +16,8 @@ public class MorseCodeController {
     @FXML
     private TextArea txftextArea4;
 
-
+    //TODO: readme vervollständigen mit Erklärung zu deinem Projekt/MorseCodeConverter
+    //TODO: readme mit Screenshots von deiner Anwendung vervollständigen
 
     private final MorseService morseService = new MorseService(); // MorseService-Objekt
 
